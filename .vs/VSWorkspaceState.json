@@ -1,11 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\maquette",
-    "\\maquette\\css",
-    "\\maquette\\includes",
-    "\\maquette\\js"
+    "\\website_opt"
   ],
-  "SelectedNode": "\\maquette\\includes\\form_1.php",
+  "SelectedNode": "\\website_opt\\index.html",
   "PreviewInSolutionExplorer": false
 }
