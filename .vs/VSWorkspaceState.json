@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\website_opt"
+    "\\website_opt",
+    "\\website_opt\\js"
   ],
-  "SelectedNode": "\\website_opt\\index.html",
+  "SelectedNode": "\\website_opt\\devis_contact.html",
   "PreviewInSolutionExplorer": false
 }

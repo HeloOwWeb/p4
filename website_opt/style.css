@@ -685,6 +685,10 @@ p {
     color: #050709;
 }
 
+.col-sm-4{
+    line-height: 2em;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
@@ -758,7 +762,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: #6E7864;
     padding: 40px 40px 40px 40px;
 }
 
@@ -780,7 +784,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffc5aa !important;
+    text-shadow: 1px 3px 2px rgba(0, 0, 0);
 }
 
 .btn-atomic-tangerine {
