@@ -36,12 +36,12 @@ ExpiresByType image/jpeg "access plus 2 month"
 ExpiresByType image/png "access plus 2 month"
 ExpiresByType text/css "access plus 2 month"
 
-ExpiresByType text/css "access plus 1 week"
+ExpiresByType text/css "access plus 1 month"
 
 ExpiresByType application/x-javascript "access plus 2 month"
 ExpiresByType application/javascript "access plus 2 month"
 ExpiresByType text/javascript "access plus 2 month"
 ExpiresByType image/x-icon "access plus 1 year"
-ExpiresDefault "access plus 1 week"
+ExpiresDefault "access plus 1 month"
 </IfModule>
 # END Expires Headers

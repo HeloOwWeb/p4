@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\website_opt"
+    "\\website-opt",
+    "\\website-opt\\css"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\website-opt\\index.html",
   "PreviewInSolutionExplorer": false
 }
