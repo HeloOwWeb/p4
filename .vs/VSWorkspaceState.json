@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\website-opt",
+    "\\maquette",
+    "\\maquette\\css",
     "\\website-opt\\css"
   ],
-  "SelectedNode": "\\website-opt\\index.html",
+  "SelectedNode": "\\maquette\\index.html",
   "PreviewInSolutionExplorer": false
 }
