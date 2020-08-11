@@ -176,7 +176,7 @@ iframe {
 
 @media only screen and (min-width : 1224px) {
     body {
-        width: 80%;
+        width: 70%;
     }
 
     header {
@@ -188,28 +188,33 @@ iframe {
         }
 
     h1 {
-        font-size: 5vmin;
+        font-size: 4vmin;
         margin-top: 1%;
         padding-bottom: 2%;
     }
 
     h2 {
-        font-size: 4.3vmin;
+        font-size: 3.5vmin;
     }
 
     h3 {
-        font-size: 4vmin;
+        font-size: 3vmin;
     }
 
     p{
-        font-size: 3vmin;
+        font-size: 2vmin;
         line-height: 120%;
+    }
+
+    .visu{
+        display: flex;
+        justify-content: center;
     }
 
     iframe {
         display: block;
-        width : 100%;
+        width : 95%;
         padding: 0;
-        height: 80vmin;
+        height: 40vmin;
     }
 }
