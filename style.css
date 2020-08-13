@@ -214,6 +214,18 @@ iframe {
         justify-content: center;
     }
 
+    .visu1 {
+        display: flex;
+        justify-content: center;
+    }
+
+        .visu1 iframe {
+            display: block;
+            width: 95%;
+            padding: 0;
+            height: 70vmin;
+        }
+
     iframe {
         display: block;
         width : 95%;

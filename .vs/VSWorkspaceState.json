@@ -1,10 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\maquette",
+    "\\annexes",
+    "\\annexes\\rapports",
+    "\\annexes\\rapports\\accessibilite",
     "\\maquette\\css",
-    "\\website-opt\\css"
+    "\\website-opt"
   ],
-  "SelectedNode": "\\maquette\\index.html",
+  "SelectedNode": "\\website-opt\\devis-contact.html",
   "PreviewInSolutionExplorer": false
 }
